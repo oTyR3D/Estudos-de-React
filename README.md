@@ -1,8 +1,5 @@
 📚 Repositório de Estudos em React
 
-React
-Status
-
 Bem-vindo ao meu repositório de acompanhamento de estudos em React! Aqui registro minha jornada de aprendizado com uma das bibliotecas JavaScript mais populares para construção de interfaces de usuário.
 ✨ Sobre este Repositório
 
